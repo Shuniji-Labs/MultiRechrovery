@@ -1,2 +1,2 @@
 # very very very VERY work in progress
-basically skidding shimmer ig
+for now it's just skidded shimmer, will fix later
